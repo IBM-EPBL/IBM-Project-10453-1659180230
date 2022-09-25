@@ -16,4 +16,4 @@ This is why short-term forecasting is so important in the retail and consumer go
 1. Exploratory Data Analysis 
 2. IBM Cloud 
 
-Data Exploration Exercise : https://us3.ca.analytics.ibm.com/bi/?perspective=content&folder=.public_folders%2FExploration
+Assignment 1 Cognos Link : https://us3.ca.analytics.ibm.com/bi/?perspective=content&folder=.public_folders%2FExploration
